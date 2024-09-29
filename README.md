@@ -5,7 +5,7 @@
 #### By *IAN LIDAVALIA*
 
 ## Description
-It's a webpage that shows different types of triangles and what they look like.
+It's a webpage that shows different types of code challenges.
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
